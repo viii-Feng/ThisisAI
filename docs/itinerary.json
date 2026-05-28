@@ -947,12 +947,12 @@
     },
     {
       "id": "warn-day7-long-drive",
-      "title": "独库公路：从容慢行不赶路（已拆分两天）",
+      "title": "6/25 极限赶路日：那拉提→独库→乌鲁木齐500km（全程最累）",
       "severity": "high",
       "sourceIds": [],
       "category": "transport",
-      "detail": "已优化：Day 7 那拉提→独库北段→独山子/奎屯仅250km/5-6h（从容拍照不赶路），Day 8 独山子/奎屯→乌鲁木齐250km/2.5h（G30高速轻松开）。不再一天飙500km。若独库不通，Day 7改走G218→G30→独山子约350km/6h。",
-      "mitigation": "Day 7早上7:30出发即可（不用赶6:00）；独库不通走G218备选；独山子/奎屯住宿提前预订"
+      "detail": "XHS真实经验：这一天精神与体力消耗极大。盘山公路+单车道+旺季堵车风险+10-12h实际耗时。独库北段是全路段最险要的。必须05:30前出发、至少两人轮换驾驶、精简停留。如果独库堵车超过2h或出发晚于07:00，果断执行Plan B或C。",
+      "mitigation": "05:00起床05:30出发；两人轮换驾驶；精简拍照只停3个点；出发前加油查路况；下载离线地图；带足路餐热水；Plan B独库不通走G218；Plan C太累独山子住下次日早高速赶机场"
     }
   ],
   "days": [
@@ -1603,45 +1603,45 @@
     {
       "id": "day-7",
       "dayNumber": 7,
-      "title": "6.25 周四 · 独库公路北段 → 独山子/奎屯",
-      "summary": "重大调整！XHS真实经验一致警告：那拉提→独库→乌鲁木齐一天开完500km极其危险（实际需10-13h、极度疲劳、旺季堵车风险大）。改为：那拉提→独库北段从容玩→住独山子或奎屯（仅250km/5-6h），不赶路不疲劳。次日早上G30高速2.5h轻松回乌市。",
-      "budgetEstimate": "油费过路 50 元/人 + 住宿 200-280 元/人 + 餐饮 80-120 元/人",
-      "backup": "Plan B（独库未通）：那拉提→G218→G30→独山子约350km/6h",
+      "title": "6.25 周四 · 独库公路 → 乌鲁木齐（极限赶路日 ⚠️）",
+      "summary": "全程最累的一天！那拉提→独库北段→独山子→乌鲁木齐约500km，实际需10-12h。必须05:30前出发、精简停留、备好一切。XHS真实经验：这一天会非常累（精神高度紧张+盘山公路+旺季堵车风险），但时间安排得当可以在20:00前到乌市。次日中午航班，今晚务必住机场附近。",
+      "budgetEstimate": "油费过路 85 元/人 + 住宿 200-250 元/人（机场附近）+ 餐饮 80-120 元/人",
+      "backup": "Plan B（独库未通或堵死）：那拉提→G218→G30→乌鲁木齐约700km/9-10h，必须04:30出发！Plan C：如果实在太累，独山子住下，次日05:00出发G30高速2.5h赶到机场（仅限航班在11:00之后）",
       "items": [
         {
-          "id": "d7-morning",
-          "timeBlock": "07:30",
-          "title": "早餐、退房（不用赶6:00了！）",
+          "id": "d7-early",
+          "timeBlock": "05:00",
+          "title": "起床、退房（最晚05:30出发！）",
           "transportToNext": "驶上G217独库公路",
           "notes": [
-            "今天只开250km到独山子，比原计划少一半路程！",
-            "出发前查独库路况",
-            "带厚外套+路餐+热水+满箱油",
-            "提前下载离线地图（山区无信号）"
+            "前一天收拾好行李+打包路餐",
+            "出发前再查独库路况！封路立即启动Plan B",
+            "带厚外套+路餐+热水+满箱油（独库中间无加油站）",
+            "提前下载离线地图（山区无信号）",
+            "至少两人轮换驾驶！一个人开会非常危险",
+            "今天会很累——但这是回家前的最后一关"
           ],
           "mapLinks": {
-            "amap": "https://uri.amap.com/search?keyword=%E6%97%A9%E9%A4%90%E3%80%81%E9%80%80%E6%88%BF%EF%BC%88%E4%B8%8D%E7%94%A8%E8%B5%B66%3A00%E4%BA%86%EF%BC%81%EF%BC%89%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
-            "baidu": "https://map.baidu.com/search/%E6%97%A9%E9%A4%90%E3%80%81%E9%80%80%E6%88%BF%EF%BC%88%E4%B8%8D%E7%94%A8%E8%B5%B66%3A00%E4%BA%86%EF%BC%81%EF%BC%89%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
+            "amap": "https://uri.amap.com/search?keyword=%E8%B5%B7%E5%BA%8A%E3%80%81%E9%80%80%E6%88%BF%EF%BC%88%E6%9C%80%E6%99%9A05%3A30%E5%87%BA%E5%8F%91%EF%BC%81%EF%BC%89%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
+            "baidu": "https://map.baidu.com/search/%E8%B5%B7%E5%BA%8A%E3%80%81%E9%80%80%E6%88%BF%EF%BC%88%E6%9C%80%E6%99%9A05%3A30%E5%87%BA%E5%8F%91%EF%BC%81%EF%BC%89%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
           }
         },
         {
-          "id": "d7-duku-relaxed",
-          "timeBlock": "08:00",
-          "title": "独库公路北段 · 从容慢行（那拉提→独山子）",
+          "id": "d7-duku",
+          "timeBlock": "05:30",
+          "title": "独库公路北段 · 精简模式（那拉提→独山子 250km）",
           "placeId": "place-duku-highway",
           "sourceIds": [
             "xhs-014"
           ],
-          "duration": "5-6小时（从容拍照+观景+休整）",
+          "duration": "4-5小时（精简停留，以赶路为主）",
           "notes": [
-            "一日体验四季：草原→森林→雪山→戈壁",
-            "铁力买提达坂、老虎口",
-            "不用赶路！遇到美景就停车拍照",
-            "乔尔玛烈士陵园停留致敬（20分钟）",
-            "乔尔玛或路上午餐",
-            "弯多坡陡注意安全",
-            "无信号区多提前下载离线地图",
-            "下午15:00-16:00到达独山子即可"
+            "一日四季：草原→森林→雪山→戈壁",
+            "精简拍照点：铁力买提达坂停10min、乔尔玛烈士陵园停15min、哈希勒根达坂停10min",
+            "其他路段不下车，车上看风景即可",
+            "旺季独库会堵车（有时一堵2-3h），做好心理准备",
+            "预计11:00-12:00到达独山子",
+            "弯多坡陡注意安全！禁止夜间通行！"
           ],
           "mapLinks": {
             "amap": "https://uri.amap.com/search?keyword=%E7%8B%AC%E5%BA%93%E5%85%AC%E8%B7%AF%E5%8C%97%E6%AE%B5%20%E9%82%A3%E6%8B%89%E6%8F%90%E2%86%92%E7%8B%AC%E5%B1%B1%E5%AD%90%20%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90&city=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90&view=map",
@@ -1649,35 +1649,53 @@
           }
         },
         {
-          "id": "d7-arrive-dushanzi",
-          "timeBlock": "15:00",
-          "title": "抵达独山子/奎屯 · 入住 · 休整",
+          "id": "d7-dushanzi-lunch",
+          "timeBlock": "11:30",
+          "title": "独山子 · 午餐+休整+加油",
+          "duration": "45分钟",
+          "cost": "人均 30-50 元",
           "notes": [
-            "独山子或奎屯住宿选择多（200-300元/晚）",
-            "推荐奎屯：城市配套更好、餐饮选择丰富",
-            "独山子→奎屯仅15km/20分钟",
-            "下午可逛独山子大峡谷（可选，就在附近）",
-            "加油补给，检查车况"
+            "快速午餐不要久留",
+            "必须加满油！",
+            "换人驾驶如果累了",
+            "确认G30高速路况"
           ],
           "mapLinks": {
-            "amap": "https://uri.amap.com/search?keyword=%E6%8A%B5%E8%BE%BE%E7%8B%AC%E5%B1%B1%E5%AD%90/%E5%A5%8E%E5%B1%AF%20%C2%B7%20%E5%85%A5%E4%BD%8F%20%C2%B7%20%E4%BC%91%E6%95%B4%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
-            "baidu": "https://map.baidu.com/search/%E6%8A%B5%E8%BE%BE%E7%8B%AC%E5%B1%B1%E5%AD%90/%E5%A5%8E%E5%B1%AF%20%C2%B7%20%E5%85%A5%E4%BD%8F%20%C2%B7%20%E4%BC%91%E6%95%B4%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
+            "amap": "https://uri.amap.com/search?keyword=%E7%8B%AC%E5%B1%B1%E5%AD%90%20%C2%B7%20%E5%8D%88%E9%A4%90%2B%E4%BC%91%E6%95%B4%2B%E5%8A%A0%E6%B2%B9%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
+            "baidu": "https://map.baidu.com/search/%E7%8B%AC%E5%B1%B1%E5%AD%90%20%C2%B7%20%E5%8D%88%E9%A4%90%2B%E4%BC%91%E6%95%B4%2B%E5%8A%A0%E6%B2%B9%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
           }
         },
         {
-          "id": "d7-dinner",
-          "timeBlock": "19:00",
-          "title": "独山子/奎屯晚餐 · 休息",
-          "duration": "2小时",
-          "cost": "人均 50-80 元",
+          "id": "d7-to-urumqi",
+          "timeBlock": "12:15",
+          "title": "独山子→乌鲁木齐（G30连霍高速 250km/3h）",
+          "transportToNext": "G30连霍高速全程平坦",
           "notes": [
-            "不用赶夜路！从容享受晚餐",
-            "奎屯市区餐饮丰富",
-            "早睡，明天上午轻松回乌市"
+            "限速120km/h注意不要超速",
+            "预计15:00-16:00到达乌鲁木齐",
+            "如独库堵车导致延误，可能在18:00-19:00才到——有心理准备",
+            "石河子服务区可休整"
           ],
           "mapLinks": {
-            "amap": "https://uri.amap.com/search?keyword=%E7%8B%AC%E5%B1%B1%E5%AD%90/%E5%A5%8E%E5%B1%AF%E6%99%9A%E9%A4%90%20%C2%B7%20%E4%BC%91%E6%81%AF%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
-            "baidu": "https://map.baidu.com/search/%E7%8B%AC%E5%B1%B1%E5%AD%90/%E5%A5%8E%E5%B1%AF%E6%99%9A%E9%A4%90%20%C2%B7%20%E4%BC%91%E6%81%AF%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
+            "amap": "https://uri.amap.com/search?keyword=%E7%8B%AC%E5%B1%B1%E5%AD%90%E2%86%92%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%EF%BC%88G30%E8%BF%9E%E9%9C%8D%E9%AB%98%E9%80%9F%20250km/3h%EF%BC%89%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
+            "baidu": "https://map.baidu.com/search/%E7%8B%AC%E5%B1%B1%E5%AD%90%E2%86%92%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%EF%BC%88G30%E8%BF%9E%E9%9C%8D%E9%AB%98%E9%80%9F%20250km/3h%EF%BC%89%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
+          }
+        },
+        {
+          "id": "d7-urc-arrive",
+          "timeBlock": "15:30",
+          "title": "抵达乌鲁木齐 · 还车 · 入住机场附近酒店",
+          "notes": [
+            "必须住地窝堡机场附近！（次日中午航班不能冒险）",
+            "推荐机场周边酒店：天缘酒店/机场宾馆/如家商旅",
+            "还车前检查车况、加满油、拍还车照",
+            "晚上可去领馆巷最后吃一顿烤肉（视体力+到达时间）",
+            "收拾行李、确认航班时间",
+            "早早休息！"
+          ],
+          "mapLinks": {
+            "amap": "https://uri.amap.com/search?keyword=%E6%8A%B5%E8%BE%BE%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%20%C2%B7%20%E8%BF%98%E8%BD%A6%20%C2%B7%20%E5%85%A5%E4%BD%8F%E6%9C%BA%E5%9C%BA%E9%99%84%E8%BF%91%E9%85%92%E5%BA%97%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
+            "baidu": "https://map.baidu.com/search/%E6%8A%B5%E8%BE%BE%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%20%C2%B7%20%E8%BF%98%E8%BD%A6%20%C2%B7%20%E5%85%A5%E4%BD%8F%E6%9C%BA%E5%9C%BA%E9%99%84%E8%BF%91%E9%85%92%E5%BA%97%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
           }
         }
       ]
@@ -1685,18 +1703,18 @@
     {
       "id": "day-8",
       "dayNumber": 8,
-      "title": "6.26 周五 · 独山子 → 乌鲁木齐 → 返程 ✈️",
-      "summary": "轻松收尾！独山子/奎屯→乌鲁木齐仅250km/2.5h（G30连霍高速全程平坦）。上午出发、中午到乌市、下午去机场，完全不用赶。相比原计划（那拉提一天飙到乌市再赶飞机），安全舒适太多。",
-      "budgetEstimate": "油费过路 35 元/人 + 餐饮 50-80 元/人",
+      "title": "6.26 周五 · 返程日 ✈️",
+      "summary": "中午航班。酒店到机场仅10-15分钟车程，睡到9点都来得及。纯返程无游览。",
+      "budgetEstimate": "餐饮 50-80 元/人",
       "items": [
         {
-          "id": "d8-breakfast",
+          "id": "d8-morning",
           "timeBlock": "09:00",
           "title": "自然醒、早餐、退房",
-          "transportToNext": "G30连霍高速 独山子/奎屯→乌鲁木齐 250km/约2.5h",
           "notes": [
-            "全程高速路况极好，轻松驾驶",
-            "出发前加满油（还车前最后一次）"
+            "住机场附近的好处：不用赶路",
+            "还车（如昨晚未还）",
+            "确认航班状态"
           ],
           "mapLinks": {
             "amap": "https://uri.amap.com/search?keyword=%E8%87%AA%E7%84%B6%E9%86%92%E3%80%81%E6%97%A9%E9%A4%90%E3%80%81%E9%80%80%E6%88%BF%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
@@ -1704,43 +1722,13 @@
           }
         },
         {
-          "id": "d8-drive-to-urc",
-          "timeBlock": "09:30",
-          "title": "独山子/奎屯 → 乌鲁木齐",
-          "duration": "2.5小时",
-          "notes": [
-            "G30连霍高速，限速120km/h",
-            "约12:00到达乌鲁木齐市区",
-            "沿途可在石河子服务区休整"
-          ],
-          "mapLinks": {
-            "amap": "https://uri.amap.com/search?keyword=%E7%8B%AC%E5%B1%B1%E5%AD%90/%E5%A5%8E%E5%B1%AF%20%E2%86%92%20%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
-            "baidu": "https://map.baidu.com/search/%E7%8B%AC%E5%B1%B1%E5%AD%90/%E5%A5%8E%E5%B1%AF%20%E2%86%92%20%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
-          }
-        },
-        {
-          "id": "d8-urc-lunch",
-          "timeBlock": "12:00",
-          "title": "乌鲁木齐午餐 · 还车",
-          "cost": "人均 40-60 元",
-          "notes": [
-            "最后的新疆美食：大盘鸡/椒麻鸡/拌面",
-            "还车前检查车况、加满油",
-            "确认还车手续"
-          ],
-          "mapLinks": {
-            "amap": "https://uri.amap.com/search?keyword=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%8D%88%E9%A4%90%20%C2%B7%20%E8%BF%98%E8%BD%A6%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&city=%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF&view=map",
-            "baidu": "https://map.baidu.com/search/%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%8D%88%E9%A4%90%20%C2%B7%20%E8%BF%98%E8%BD%A6%20%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E7%8E%AF%E7%BA%BF"
-          }
-        },
-        {
           "id": "d8-airport",
-          "timeBlock": "按航班时间",
+          "timeBlock": "10:00",
           "title": "前往天山机场（URC）→ ✈️ 返程",
           "placeId": "place-diwopu",
           "notes": [
-            "市区到机场预留1小时",
-            "提前1.5-2小时到达",
+            "酒店到机场仅10-15分钟",
+            "提前1.5小时到达（约10:30前到机场）",
             "机场有新疆特产店可最后补货",
             "新疆伊犁环线旅程结束！"
           ],
